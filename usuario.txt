@@ -1,0 +1,3 @@
+Emanoel Messias; 123456789; 120.00; true;
+Helbert Moraes; 321654987; 220.00; true;
+Maria Emilia; 654987321; 150; false;
